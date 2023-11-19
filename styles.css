@@ -1,0 +1,10 @@
+/* Styly pro formulář a výsledek */
+form {
+    margin: 20px;
+  }
+  
+  #result {
+    margin: 20px;
+    font-weight: bold;
+  }
+  
